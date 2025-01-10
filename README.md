@@ -1,5 +1,5 @@
 ## `Hey There!` 👋, I'm Shehab Ahmed
-### A passionate DevOps/Cloud Engineer 🚀
+### A passionate undergraduate DevOps/Cloud Engineer 🚀
 
 - 🔭 I’m currently working on **Docker, Ansible, Terraform, AWS, Kubernetes, Python, and Shell Scripting** 
 - 🌱 I’m continuously learning and improving my skills in **Cloud Infrastructure, CI/CD, Kubernetes, Docker, and Automation**. 
